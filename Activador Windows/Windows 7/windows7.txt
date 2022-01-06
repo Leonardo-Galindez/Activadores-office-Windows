@@ -1,0 +1,1 @@
+el Codigo es: slmgr -rearm
